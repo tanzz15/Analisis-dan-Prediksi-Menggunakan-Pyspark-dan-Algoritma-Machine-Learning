@@ -1,0 +1,2 @@
+# Analisis-dan-Prediksi-Menggunakan-Pyspark-dan-Algoritma-Machine-Learning
+Proyek ini membahas analisis dan prediksi total tarif perjalanan taksi New York menggunakan dataset NYC Yellow Taxi Trip Record Januari 2021 berbasis PySpark. Data diproses mengikuti pipeline Big Data yang mencakup pemrosesan batch menggunakan konsep MapReduce, EDA, preprocessing data, serta manipulasi data menggunakan Spark SQL.
